@@ -1,12 +1,12 @@
 {
     "ID":"D2D2C23B084D411DB66FE0C79D6C2A6D",
     "ActionKeyword":"movie",
-    "Name":"豆瓣电影",
+    "Name":"豆瓣电影(改)",
     "Description":"搜索豆瓣电影评分",
-    "Author":"qianlifeng",
+    "Author":"renmu",
     "Version":"1.0.0",
     "Language":"python",
-    "Website":"https://github.com/qianlifeng/Wox.Plugin.DoubanMovie",
+    "Website":"https://github.com/renmu123/wox-",
     "ExecuteFileName":"main.py",
     "IcoPath":"Images\\movies.png"
 }
